@@ -1,0 +1,73 @@
+vd Desktop
+cd project
+cd profile
+laravel new larapic
+npm instal
+herou login
+heroku create larapic
+git commit -m  "commit larapic"
+yes
+git commit -m  "commit db"
+heroku run php artisan migrate:fresh
+cd larapic
+git commit -m  "commit new db"
+laravel new laraimg
+composer require laravel/ui
+php artisan ui vue --auth
+npm install
+npm audit fix --force
+npm run dev
+heroku create laraimg
+git commit -m “Commit laraimg”
+git commit -m "commit laraimg"
+php artisan key:generate --show
+git commit -m "db laraimg"
+git push heroku master
+heroku run php artisan migrate
+php artisan make:conttroller ProfileController
+php artisan make:controller ProfileController
+ php artisan tinker
+ php artisan tinker
+ php artisan tinker
+ php artisan tinker
+php artisan make:model Profile -m
+ php artisan tinker
+ php artisan tinker
+ php artisan tinker
+php artisan migrate
+ php artisan tinker
+composer require intervention/image
+ php artisan tinker
+ php artisan tinker
+ php artisan tinker
+php artisan storage:link
+ php artisan tinker
+ php artisan tinker
+cd laravelFirstApp
+ php artisan tinker
+php artisan serve
+ php artisan tinker
+cd ..
+cd Desktop
+cd projectLaravel
+cd laraimg
+php artisan migrate:fresh
+ php artisan tinker
+heroku git:remote a- laraimg
+heroku login
+git commit -m "update app"
+heroku restart
+git remote rm heroku
+git remote heroku git@heroku.com:laraimg.git
+git remote add heroku git@heroku.com:laraimg.git
+heroku git:remote -a laraimg
+git commit -m "updating"
+git init
+heroku create laraimage
+git commit -m "laraimage"
+git remote add heroku git@heroku.com:laraimage.git
+git remote add heroku1 git@heroku.com:laraimage.git
+git remote -v
+git push heruko1 master
+git push heruko master
+git add .
